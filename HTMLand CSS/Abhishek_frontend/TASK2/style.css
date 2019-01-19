@@ -1,0 +1,51 @@
+body{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:15%;
+    background-image:url(giphy.gif);
+    
+    font-weight: bold;
+}
+h1{
+    color: rgb(105, 96, 72)
+    
+}
+a{
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.login
+{
+    
+    
+    background-color: bisque;
+    border-block-end-style: solid;
+    border: burlywood;
+    border-radius: 10%;
+    background-size: cover;
+    width: 15%;
+    align:center;
+
+}
+.login{
+    padding-bottom: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+a{
+    padding-top: 10px;
+    margin-top: 3px;
+    
+}
+input{
+    border-radius: 20px;
+    border-color: rgb(171, 171, 236);
+}
+button
+{
+margin-left: 5px;
+margin-bottom: 5px;
+}
