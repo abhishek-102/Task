@@ -1,0 +1,32 @@
+body{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:15%;
+    background-image:url(download.jpg)
+    background-size: 50px;
+}
+h1{
+    color: rgb(165, 129, 39)
+    
+}
+
+.login
+{
+    
+    border: 0in;
+    background-color: bisque;
+    border-block-end-style: solid;
+    border: burlywood;
+    border-radius: 10%;
+
+}
+.login{
+    padding-bottom: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+a{
+    padding-top: 10px;
+}
